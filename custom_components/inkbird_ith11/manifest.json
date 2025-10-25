@@ -1,0 +1,10 @@
+{
+  "domain": "inkbird",
+  "name": "Inkbird ITH-11-B",
+  "documentation": "https://www.home-assistant.io/integrations/inkbird_ith11",
+  "requirements": [],
+  "dependencies": ["bluetooth"],
+  "codeowners": ["@goldminenine"],
+  "config_flow": true,
+  "version": "1.0.0"
+}
